@@ -18,6 +18,24 @@ span: 3
 dark: true
 src: "src/logo/coalsoft_logo_icon-color.png"
 ```
+```download
+title: Barevný symbol (.png)
+subtitle: 10 KB
+span: 2
+url: "src/logo/coalsoft_logo_icon-color.png"
+```
+```download
+title: Barevný symbol (.svg)
+subtitle: 370 B
+span: 2
+url: src/logo/svg/coalsoft_logo_icon-color.svg
+```
+```download
+title: Barevný symbol (.pdf)
+subtitle: 25 KB
+span: 2
+url: src/logo/pdf/coalsoft_logo_icon-color.pdf
+```
 
 ## Prostý symbol (1 : 1)
 > Prostý symbol se používá za potřeby dosáhnutí zvýšeného kontrastu a je vhodný k použtí na jakémkoliv podkladu. Nemělo by dojít k jeho přebarvení.

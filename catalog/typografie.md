@@ -20,7 +20,7 @@ Pro jeho dekorativní povahu je font používán jen pro dostatečně velké nad
 ```
 ```download
 title: Font Lekton (.zip)
-subtitle: 85 KB
+subtitle: 85 kB
 url: assets/Lekton.zip
 ```
 

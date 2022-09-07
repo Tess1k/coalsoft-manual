@@ -18,21 +18,25 @@ span: 3
 dark: true
 src: "src/logo/coalsoft_logo_icon-color.png"
 ```
+### Ke stažení
 ```download
 title: Barevný symbol (.png)
-subtitle: 10 KB
+filename: coalsoft_logo_icon-color.png
+subtitle: 10 kB
 span: 2
 url: "src/logo/coalsoft_logo_icon-color.png"
 ```
 ```download
 title: Barevný symbol (.svg)
+filename: coalsoft_logo_icon-color.svg
 subtitle: 370 B
 span: 2
 url: src/logo/svg/coalsoft_logo_icon-color.svg
 ```
 ```download
 title: Barevný symbol (.pdf)
-subtitle: 25 KB
+filename: coalsoft_logo_icon-color.pdf
+subtitle: 25 kB
 span: 2
 url: src/logo/pdf/coalsoft_logo_icon-color.pdf
 ```
@@ -51,6 +55,51 @@ span: 3
 dark: true
 src: "src/logo/coalsoft_logo_icon-white.png"
 ```
+### Ke stažení
+#### Tmavý symbol
+```download
+title: Tmavý symbol (.png)
+filename: coalsoft_logo_icon-black.png
+subtitle: 10 kB
+span: 2
+url: "src/logo/coalsoft_logo_icon-black.png"
+```
+```download
+title: Tmavý symbol (.svg)
+filename: coalsoft_logo_icon-black.svg
+subtitle: 370 B
+span: 2
+url: "src/logo/svg/coalsoft_logo_icon-black.svg"
+```
+```download
+title: Tmavý symbol (.pdf)
+filename: coalsoft_logo_icon-black.pdf
+subtitle: 25 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_icon-black.pdf"
+```
+#### Světlý symbol
+```download
+title: Světlý symbol (.png)
+filename: coalsoft_logo_icon-white.png
+subtitle: 10 kB
+span: 2
+url: "src/logo/coalsoft_logo_icon-white.png"
+```
+```download
+title: Světlý symbol (.svg)
+filename: coalsoft_logo_icon-white.svg
+subtitle: 370 B
+span: 2
+url: "src/logo/svg/coalsoft_logo_icon-white.svg"
+```
+```download
+title: Světlý symbol (.pdf)
+filename: coalsoft_logo_icon-white.pdf
+subtitle: 25 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_icon-white.pdf"
+```
 
 ## Barevné logo (1 : 1)
 > Barevná verze loga obsahuje modrý symbol, barva textu se může měnit. Barevné logo může být použito pouze na bílém a černém podkladu.
@@ -68,6 +117,51 @@ dark: true
 src: "src/logo/coalsoft_logo_square_color-white.png"
 overlay: "src/logo/overlay/coalsoft_logo_square_color-white.png"
 ```
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze barevného loga (.png)
+filename: coalsoft_logo_square-color-black.png
+subtitle: 17 kB
+span: 2
+url: "src/logo/coalsoft_logo_square-color-black.png"
+```
+```download
+title: Tmavá verze barevného loga (.svg)
+filename: coalsoft_logo_square-color-black.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_square-color-black.svg"
+```
+```download
+title: Tmavá verze barevného loga (.pdf)
+filename: coalsoft_logo_square-color-black.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_square-color-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze barevného loga (.png)
+filename: coalsoft_logo_square-color-white.png
+subtitle: 16 kB
+span: 2
+url: "src/logo/coalsoft_logo_square-color-white.png"
+```
+```download
+title: Světlá verze barevného loga (.svg)
+filename: coalsoft_logo_square-color-white.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_square-color-white.svg"
+```
+```download
+title: Světlá verze barevného loga (.pdf)
+filename: coalsoft_logo_square-color-white.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_square-color-white.pdf"
+```
 
 ## Prosté logo (1 : 1)
 > Prostá verze loga obsahuje jednu barvu. Pakliže je potřeba logo přebarvit na jinou barvu (např. umítění na cizím podkladu), využíváme toto logo.
@@ -82,8 +176,53 @@ overlay: "src/logo/overlay/coalsoft_logo_square_mono-black.png"
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_square_mono_white.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_mono_white.png"
+src: "src/logo/coalsoft_logo_square_mono-white.png"
+overlay: "src/logo/overlay/coalsoft_logo_square_mono-white.png"
+```
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze prostého loga (.png)
+filename: coalsoft_logo_square-mono-black.png
+subtitle: 17 kB
+span: 2
+url: "src/logo/coalsoft_logo_square-mono-black.png"
+```
+```download
+title: Tmavá verze prostého loga (.svg)
+filename: coalsoft_logo_square-mono-black.svg
+subtitle: 3 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_square-mono-black.svg"
+```
+```download
+title: Tmavá verze prostého loga (.pdf)
+filename: coalsoft_logo_square-mono-black.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_square-mono-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze prostého loga (.png)
+filename: coalsoft_logo_square-mono-white.png
+subtitle: 16 kB
+span: 2
+url: "src/logo/coalsoft_logo_square-mono-white.png"
+```
+```download
+title: Světlá verze prostého loga (.svg)
+filename: coalsoft_logo_square-mono-white.svg
+subtitle: 3 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_square-mono-white.svg"
+```
+```download
+title: Světlá verze prostého loga (.pdf)
+filename: coalsoft_logo_square-mono-white.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_square-mono-white.pdf"
 ```
 
 ## Barevné logo (3 : 1)
@@ -102,6 +241,51 @@ dark: true
 src: "src/logo/coalsoft_logo_long_color-white.png"
 overlay: "src/logo/overlay/coalsoft_logo_long_color-white.png"
 ```
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze barevného loga (.png)
+filename: coalsoft_logo_long_color-black.png
+subtitle: 21 kB
+span: 2
+url: "src/logo/coalsoft_logo_long_color-black.png"
+```
+```download
+title: Tmavá verze barevného loga (.svg)
+filename: coalsoft_logo_long_color-black.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_long_color-black.svg"
+```
+```download
+title: Tmavá verze barevného loga (.pdf)
+filename: coalsoft_logo_long_color-black.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_long_color-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze barevného loga (.png)
+filename: coalsoft_logo_long_color-white.png
+subtitle: 21 kB
+span: 2
+url: "src/logo/coalsoft_logo_long_color-white.png"
+```
+```download
+title: Světlá verze barevného loga (.svg)
+filename: coalsoft_logo_long_color-white.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_long_color-white.svg"
+```
+```download
+title: Světlá verze barevného loga (.pdf)
+filename: coalsoft_logo_long_color-white.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_long_color-white.pdf"
+```
 
 ## Prosté logo (3 : 1)
 > Prostá verze loga obsahuje jednu barvu. Pakliže je potřeba logo přebarvit na jinou barvu (např. umítění na cizím podkladu), využíváme toto logo.
@@ -119,9 +303,56 @@ dark: true
 src: "src/logo/coalsoft_logo_long_mono-white.png"
 overlay: "src/logo/overlay/coalsoft_logo_long_mono-white.png"
 ```
-### Logotyp ke stažení
+
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze prostého loga (.png)
+filename: coalsoft_logo_long_mono-black.png
+subtitle: 21 kB
+span: 2
+url: "src/logo/coalsoft_logo_long_mono-black.png"
+```
+```download
+title: Tmavá verze prostého loga (.svg)
+filename: coalsoft_logo_long_mono-black.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_long_mono-black.svg"
+```
+```download
+title: Tmavá verze prostého loga (.pdf)
+filename: coalsoft_logo_long_mono-black.pdf
+subtitle: 31 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_long_mono-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze prostého loga (.png)
+filename: coalsoft_logo_long_mono-white.png
+subtitle: 19 kB
+span: 2
+url: "src/logo/coalsoft_logo_long_mono-white.png"
+```
+```download
+title: Světlá verze prostého loga (.svg)
+filename: coalsoft_logo_long_mono-white.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalsoft_logo_long_mono-white.svg"
+```
+```download
+title: Světlá verze prostého loga (.pdf)
+filename: coalsoft_logo_long_mono-white.pdf
+subtitle: 31 kB
+span: 2
+url: "src/logo/pdf/coalsoft_logo_long_mono-white.pdf"
+```
+
+## Kompletní logotyp ke stažení
 ```download
 title: coalsoft logotyp (.zip)
-subtitle: 660 KB | JPG, PNG, SVG, PDF
+subtitle: 695 kB | JPG, PNG, SVG, PDF
 url: assets/coalsoft_logotyp.zip
 ```
